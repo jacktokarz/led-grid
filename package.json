@@ -5,14 +5,18 @@
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
+    "@fortawesome/fontawesome-svg-core": "^6.7.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
     "@mui/material": "^6.4.2",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "ajv": "^8.17.1",
     "ajv-keywords": "^5.1.0",
+    "fortawesome": "^0.0.1-security",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-pick-color": "^2.0.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
